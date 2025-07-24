@@ -10,12 +10,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Bhryee.Bhryee&"  />
-</div>
-
-###
-
 <h1 align="center">01001000 11011101 👋 </h1>
 
 ###
