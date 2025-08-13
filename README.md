@@ -10,10 +10,10 @@
 
 ###
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhryee&layout=compact&theme=cobalt" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhryee&show_icons=true&theme=cobalt&hide_title=false" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhryee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhryee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 
 
@@ -52,4 +52,6 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Bhryee/Bhryee/output/snake.svg" alt="Snake animation" />
 
