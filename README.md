@@ -11,8 +11,8 @@
 ###
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhryee&layout=compact&theme=dracula" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhryee&show_icons=true&theme=dracula&hide_title=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhryee&layout=compact&theme=cobalt" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhryee&show_icons=true&theme=cobalt&hide_title=false" width="48%" />
 </p>
 
 
