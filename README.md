@@ -1,28 +1,16 @@
-<div align="center">
-  <img height="150" src="https://github.com/user-attachments/assets/2509a609-39a7-4ba4-abac-bd8559d2be12"  />
-</div>
+
+<h1 align="center"> Hey! I'm Bahriye </h1>
+
+
+
+
+<p align="left">✨I'm Computer Engineering Student | Aspiring Software Developer. </p>
+<p align="left">💫 My interest in data science and artificial intelligence began when I started university. Since then, I have been developing projects.</p>
+<p align="left">💻 I also develop projects in mobile application. </p>
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/bahriye-isgor/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a> <a href="https://medium.com/@bhrye" target="_blank"><img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo" /></a>
-</div>
-
-###
-
-<h1 align="center">01001000 11011101 👋 </h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Computer Engineering Student | Aspiring Software Developer </p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -44,6 +32,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+</div>
+
+<h2 align="left">Contact</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/bahriye-isgor/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a> <a href="https://medium.com/@bhrye" target="_blank"><img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo" /></a>
 </div>
 
 ###
